@@ -518,5 +518,11 @@
     "name":"Curiosity blue",
     "colour1":"#525252",
     "colour2":"#3d72b4"
+  },
+  ,
+  {
+    "name":"Sex on the beach",
+    "colour1":"#f74d4d",
+    "colour2":"#fea839"
   }
 ]
